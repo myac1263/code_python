@@ -27,4 +27,3 @@ if uploaded_file is not None:
             st.write(random_sample)
     else:
         st.error("Your dataset should have at least 80 participants.")
-
